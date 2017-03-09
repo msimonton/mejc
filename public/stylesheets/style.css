@@ -346,3 +346,13 @@ u {
 #causeU {
   display: block;
 }
+
+#home {
+  background-image: url('../images/hands-pic.png');
+  background-position: bottom;
+  background-repeat: no-repeat;
+}
+
+#home-button-left, #home-button-right {
+  background-color: rgba(255, 255, 255, .7)
+}
