@@ -347,10 +347,12 @@ u {
   display: block;
 }
 
-#home {
+body {
   background-image: url('../images/hands-pic.png');
-  background-position: bottom;
+
   background-repeat: no-repeat;
+  background-position: bottom;
+  height: 100vh;
 }
 
 #home-button-left, #home-button-right {
